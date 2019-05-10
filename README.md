@@ -8,3 +8,5 @@ Various links about entrepreneurship
 [Tim O'Reilly - The fundamental problem with Silicon Valley’s favorite growth strategy](https://qz.com/1540608/the-problem-with-silicon-valleys-obsession-with-blitzscaling-growth/amp/)
 
 [Niklas Göke - Don’t Imitate Successful People—Learn From Your Mistakes](https://medium.com/s/story/dont-imitate-successful-people-learn-from-your-mistakes-ea4af41ca66d)
+
+[Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)

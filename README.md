@@ -1,4 +1,4 @@
-# EntrepreneurKnowledgeBase
+# Entrepreneur Knowledge Base
 Various links about entrepreneurship
 
 [Sahil Lavingia - Reflecting on My Failure to Build a Billion-Dollar Company](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7)

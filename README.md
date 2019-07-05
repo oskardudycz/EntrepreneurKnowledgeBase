@@ -10,3 +10,5 @@ Various links about entrepreneurship
 [Niklas Göke - Don’t Imitate Successful People—Learn From Your Mistakes](https://medium.com/s/story/dont-imitate-successful-people-learn-from-your-mistakes-ea4af41ca66d)
 
 [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)
+
+[Matthew Skelton, Manuel Pais - Forget monoliths vs. microservices. Cognitive load is what matters](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)

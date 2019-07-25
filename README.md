@@ -12,3 +12,5 @@ Various links about entrepreneurship
 [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)
 
 [Matthew Skelton, Manuel Pais - Forget monoliths vs. microservices. Cognitive load is what matters](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)
+
+[David Neal - Leadership Guide for the Reluctant Leader ](https://www.youtube.com/watch?v=BCyHS7s_pjc)

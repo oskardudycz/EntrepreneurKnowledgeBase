@@ -14,3 +14,5 @@ Various links about entrepreneurship
 [Matthew Skelton, Manuel Pais - Forget monoliths vs. microservices. Cognitive load is what matters](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)
 
 [David Neal - Leadership Guide for the Reluctant Leader ](https://www.youtube.com/watch?v=BCyHS7s_pjc)
+
+[Keith Johnstone - Don't Do Your Best](https://www.youtube.com/watch?v=bz9mo4qW9bc)

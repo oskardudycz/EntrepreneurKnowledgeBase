@@ -20,4 +20,4 @@ Various links about entrepreneurship
 
 ## Tools
 
-- Free PowerPoint/Google Docs templates - https://www.smiletemplates.com/free/powerpoint-templates/0.html
+- [Smile Templates](https://www.smiletemplates.com/free/powerpoint-templates/0.html) Free PowerPoint/Google Docs templates

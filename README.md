@@ -16,3 +16,8 @@ Various links about entrepreneurship
 [David Neal - Leadership Guide for the Reluctant Leader ](https://www.youtube.com/watch?v=BCyHS7s_pjc)
 
 [Keith Johnstone - Don't Do Your Best](https://www.youtube.com/watch?v=bz9mo4qW9bc)
+
+
+## Tools
+
+- Free PowerPoint/Google Docs templates - https://www.smiletemplates.com/free/powerpoint-templates/0.html

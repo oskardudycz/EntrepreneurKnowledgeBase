@@ -17,6 +17,8 @@ Various links about entrepreneurship
 
 [Keith Johnstone - Don't Do Your Best](https://www.youtube.com/watch?v=bz9mo4qW9bc)
 
+[Caleb Porzio - I Just Hit $100k/yr On GitHub Sponsors! 🎉❤️ (How I Did It)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
+
 
 ## Tools
 
